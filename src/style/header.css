@@ -1,0 +1,22 @@
+.my-logo {
+  font-family: "Kaushan Script", cursive;
+  font-style: bold italic;
+  font-size: xx-large;
+  letter-spacing: 4px;
+}
+
+.profile-container {
+  margin-right: 50px;
+  margin-bottom: 70px;
+  width: 350px;
+  height: 250px;
+}
+
+.profile-container img {
+  width: 100%;
+  height: auto;
+}
+
+.about-pr {
+  font-family: "Source Code Pro", monospace;
+}
