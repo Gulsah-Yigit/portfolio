@@ -16,7 +16,7 @@ const Hero = () => {
               Hey, I'm Gülşah 👋
             </p>
             <h1 className="text-2xl leading-[44px] md:text-5xl md:leading-tight lg:text-6xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
-              I'm Front-End <br /> Developer.
+              I'm a Front-End <br /> Developer.
             </h1>
             <p className="pt-6 pb-8 md:pt-6 md:pb-10 max-w-[480px] text-md text-center lg:text-center leading-7">
               I've passion for modern front-end development and I eager to truly
