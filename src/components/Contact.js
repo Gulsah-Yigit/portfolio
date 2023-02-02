@@ -10,9 +10,8 @@ const Contact = () => {
             Contact me
           </h2>
           <p className="subtitle">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id
-            laoreet libero, a pretium augue. Curabitur ac purus sed neque
-            lobortis consequat id eget massa.
+            If you'd like to know more about my work or experiences, get in
+            touch.
           </p>
         </div>
         <div className="flex flex-col lg:gap-x-8  lg:flex-row">
