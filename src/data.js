@@ -118,11 +118,12 @@ export const brands = [
 export const projectsImg = [
   {
     id: "1",
-    image: Project1,
-    href: "https://netflix-clone-psi-lyart.vercel.app/",
-    github: "https://github.com/Gulsah-Yigit/netflix-clone.git",
+    image: Project4,
+    href: "https://house-marketplace-app-orcin.vercel.app/",
+    github: "https://github.com/Gulsah-Yigit/House-Marketplace-App.git",
     target: "_blank",
   },
+
   {
     id: "2",
     image: Project2,
@@ -132,23 +133,24 @@ export const projectsImg = [
   },
   {
     id: "3",
+    image: Project1,
+    href: "https://netflix-clone-psi-lyart.vercel.app/",
+    github: "https://github.com/Gulsah-Yigit/netflix-clone.git",
+    target: "_blank",
+  },
+  {
+    id: "4",
     image: Project3,
     href: "https://webpack-react-draft-dkma.vercel.app/",
     github: "https://github.com/Gulsah-Yigit/Microsoft-Homepage-Clone.git",
     target: "_blank",
   },
-  {
-    id: "4",
-    image: Project4,
-    href: "https://house-marketplace-app-orcin.vercel.app/",
-    github: "https://github.com/Gulsah-Yigit/House-Marketplace-App.git",
-    target: "_blank",
-  },
+
   {
     id: "5",
     image: Project5,
-    href: "https://github-finder-app-bay-eight.vercel.app/",
-    github: "https://github.com/Gulsah-Yigit/Github-Finder-App.git",
+    href: "https://online-market-virid.vercel.app/home",
+    github: "https://github.com/Gulsah-Yigit/online-market.git",
     target: "_blank",
   },
   {
