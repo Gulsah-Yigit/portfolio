@@ -27,6 +27,7 @@ import Project4 from "./assets/img/projects/4.png";
 import Project5 from "./assets/img/projects/5.png";
 import Project6 from "./assets/img/projects/6.png";
 import Project7 from "./assets/img/projects/7.png";
+import Project8 from "./assets/img/projects/8.png";
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
@@ -166,6 +167,13 @@ export const projectsImg = [
     image: Project7,
     href: "https://quiz-iota-eight.vercel.app/",
     github: "https://github.com/Gulsah-Yigit/quiz.git",
+    target: "_blank",
+  },
+  {
+    id: "8",
+    image: Project8,
+    href: "https://photographer-portfolio-rho.vercel.app/",
+    github: "https://github.com/Gulsah-Yigit/photographer-portfolio.git",
     target: "_blank",
   },
 ];
